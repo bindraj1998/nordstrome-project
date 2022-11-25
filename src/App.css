@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -10px;
+}
+.cart-top>img{
+    width: 50%;
+    height: 300px;
+    background-color: #f8f8f8;
+}
+.cart{
+  overflow: hidden;
+  padding-left: 10px;
+ 
+
+}
+.cart>img{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 300px;
+  width: 100%;
+
+}
+.last>img{
+  width: 300px;
+  height: 300px;
+  gap: 5px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.last{
+  width: 80%;
+  border: yellow;
+  
+}
+.buttom{
+  display: flex;
+  margin-bottom: 50px;
+  height: 300px;
+  
+  background-color: #f9f9f9;
+  margin: auto;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  
+}
+.buttom>div{
+
+
+margin-left: 5px;
+}
+.eventimg>img{
+  width: 100%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 300px;
+
+
+}
+.eventimg{
+  text-align: start;
+
+  margin: auto;
+  margin-left: 5px;
+  height: 300px;
+  
+}
+.slick-slide > div{
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -10px;
+}
+.display{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: auto;
+  gap: 10px;
+  margin-top: 300px;
+  text-align: start;
+  box-shadow:  rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  margin-bottom: 40px;
+}
+.display1{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: auto;
+  gap: 10px;
+  margin-top: 5px;
+  text-align: start;
+  box-shadow:  rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  margin-bottom: 40px;
+}
+.display>img{
+  height: 300px;
+}
+
+
+
+
+
+.box{
+  
+  color:1px solid blue
+
+}
+
